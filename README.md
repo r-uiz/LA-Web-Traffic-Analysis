@@ -35,4 +35,4 @@ The [original dataset is available here](https://www.kaggle.com/datasets/cityofL
 
 Check out the [LAcity.org Web Traffic - Tableau Dashboard](https://public.tableau.com/app/profile/ruiz/viz/LAcity_orgWebTraffic/LAcity_orgWebTrafficDashboard?publish=yes).
 
-For more about my projects and data journey, visit my [Portfolio](https://www.notion.so/ruizdelcarmen/Ruiz-del-Carmen-Data-Portfolio-e725748d0e0546c386be6c6c7dc49099).
+For more about my projects and data journey, visit my [Portfolio](https://ruiz.super.site/).
